@@ -1,0 +1,182 @@
+﻿<!DOCTYPE html> 
+<html> 
+<head> 
+<meta charset="utf-8" /> 
+<meta http-equiv="Content-Type" content="text/html; Viewerpoint" /> 
+<title>Hello World</title> 
+</head> 
+<body style="background-color:white;"> 
+<h1 style="color:blue"> PROJECTS SHAMMAH E-COMMERCE WEBSITE </h1> 
+<h2 style="color:blue">YOUR WELCOME TO BUY BIKES ACCESORIES</h2> 
+<div class="menu"> 
+        <a href="#home">HOME</a><br> 
+        <a href="#news">NEWS</a><br> 
+        <a href="#notification">NOTIFICATIONS</a><br> 
+        <div class="menu-log"> 
+            <a href="#login">LOGIN</a> 
+        </div> 
+    </div> 
+<h3><i>LET US RIDE BIKES</i></h3> 
+<h3>Advertising Platform</h3> 
+<p> 
+<em><strong>Social media</strong></em><br> is a great platform to access many cyclists. Many social platforms have a reliance on images to make posts unique, and let’s face it; bikes are some of the best material for photos. 
+ 
+In fact, users like<strong> 3.5 billion photos per day on social media.</strong> That’s a lot of opportunity to show off your beautiful desire of bikes to the world, receive likes and shares, and ultimately — more business. 
+Social media isn’t all about photos, though — you can use social media to post about a new bikes,  or informational articles about how to take care of different types of bikes. Therefore don’t ignore this strategy when it comes to building your bike shop marketing plan.</p> 
+<p style="color:purple">Types of bikes available at projects Shammah E-commerce Website;</p> 
+<ul> 
+<li>mountain bike</li> 
+<li>road bikes</li> 
+<li>fixed gear bicycle</li> 
+<li>hybrid bike</li> 
+<li>touring bike</li> 
+<li>BMX bikes</li> 
+<li>gravel bicycle</li> 
+<li>fatbike</li> 
+<li>cyclocross bike</li> 
+</ul> 
+<table border="10" cellpadding="10" cellspacing="1"> 
+<tr> 
+<th>NO</th> 
+<th>NAME OF BIKE</th> 
+<th>PRICE</th> 
+</tr> 
+<tr> 
+<td>1</td> 
+<td>mountain bike</td> 
+<td>Ksh.17000</td> 
+</tr> 
+<tr> 
+<td>2</td> 
+<td>road bikes</td> <td>Ksh.1200</td> 
+</tr> 
+<tr> 
+<td>3</td> 
+<td>Fillers</td> 
+<td>Ksh.2300</td> 
+</tr> 
+<tr> 
+<td>4</td> 
+<td>Foliage</td> 
+<td>Ksh.4000</td> 
+</tr> 
+<tr> 
+<td>5</td> 
+<td>lilies</td> 
+<td>Ksh.3000</td> 
+</tr> 
+<tr> 
+<td>6</td> 
+<td>Orchids</td> 
+<td>Ksh.2450</td> 
+</tr> 
+<tr> 
+<td>7</td> 
+<td>Penions &Tulips</td> <td>Ksh.5600</td> 
+</tr> 
+<tr> 
+<td>8</td> 
+<td>Perfumed roses</td> 
+<td>Ksh.3950</td> 
+</tr> 
+<tr> 
+<td>9</td> 
+<td>Standard roses</td> 
+<td>Ksh.2400</td> 
+</tr> 
+<tr> 
+<td>10</td> 
+<td>Sprayed roses</td> 
+<td>Ksh.3200</td> 
+</tr> 
+<tr> 
+<td>11</td> 
+<td>Tropical flowers</td> 
+<td>Ksh.2500</td> 
+</tr> 
+</table> 
+<h2>NOTE:Consider the means of payment below;</h2> 
+<ul> 
+<li><h3>Mpesa</h3></li> <li><h3>Paypal</h3></li> 
+<li><h3>Telkom Money</h3></li> 
+</ul> 
+<a href="https://www.buymeacoffee.com/Dhanian" 
+>https://www.buymeacoffee.com/Dhanian</a><br> 
+<h3>How to reach Dhanian site</h3> 
+<form> 
+<p> 
+<label>Username:<input type="text"/></label></p> 
+<p><label>Password:<input type="password"/></label></p> 
+<p><button type="submit">Submit</button></p> 
+<label>Male<input type="radio" name="gender" value="male"/></label> 
+<label>Female<input type="radio" name="gender" value="female"/></label> 
+<h4>Choose language to use.</h4> 
+<ul style="list-style-type:none;"> 
+<li><input type="checkbox" name="language" value="english"/>English</li> 
+<li><input type="checkbox" name="language" value="french"/>French</li> 
+<li><input type="checkbox" name="language" value="kiswahili"/>Kiswahili</li> 
+<li><input type="checkbox" name="language" value="Gusii"/>Gusii</li> 
+</ul> 
+<fieldset> 
+      <legend><h3>Personal Details</h3></legend> 
+       
+<p> 
+        <label> 
+          Salutation 
+          <br /> 
+          <select name="salutation"> 
+            <option>--None--</option> 
+            <option>Mr.</option> 
+            <option>Ms.</option> 
+            <option>Mrs.</option> 
+            <option>Dr.</option> 
+            <option>Prof.</option> 
+          </select> 
+        </label> 
+      </p> 
+ 
+       
+<p> 
+        <label>First name: <input name="firstName" /></label> 
+      </p> 
+ 
+       
+<p> 
+        <label>Last name: <input name="lastName" /></label> 
+      </p> 
+ 
+       
+<p> 
+        Gender : 
+        <label><input type="radio" name="gender" value="male" /> Male</label> 
+        <label><input type="radio" name="gender" value="female" /> Female</label> 
+      </p> 
+ 
+       
+<p> 
+        <label>Email:<input type="email" name="email" /></label> 
+      </p> 
+ 
+       
+<p> 
+        <label>Date of Birth:<input type="date" name="birthDate"></label> 
+      </p> 
+ 
+       
+<p> 
+        <label> 
+          Address : 
+          <br /> 
+          <textarea name="address" cols="30" rows="3"></textarea> 
+        </label> 
+      </p> 
+ 
+       
+<p> 
+        <button type="submit">Submit</button> 
+      </p> 
+ 
+     </fieldset> 
+</form> 
+</body> 
+</html> 
